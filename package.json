@@ -15,7 +15,8 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-router": "^3.0.0",
-    "react-tap-event-plugin": "^1.0.0"
+    "react-tap-event-plugin": "^1.0.0",
+    "materialize-css": "*"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,5 +25,5 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "kchandar.github.io/build"
+  "homepage": "https://kchandar.github.io/build"
 }

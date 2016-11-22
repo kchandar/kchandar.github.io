@@ -1,6 +1,8 @@
 // Landing page -- what users see on arrival
 import React from 'react';
 import './css/Landing.css'
+import 'materialize-css'
+
 var LandingPage = React.createClass({
     render() {
         return(

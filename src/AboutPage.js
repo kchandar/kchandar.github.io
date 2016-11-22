@@ -1,6 +1,7 @@
 // Page of quotes to show
 import React from 'react';
 import './css/About.css'
+import 'materialize-css/bin/materialize.css'
 
 // PageOne Component
 var AboutPage = React.createClass({

@@ -1,6 +1,7 @@
 // Page of quotes to show
 import React from 'react';
 import $ from 'jquery';
+import 'materialize-css'
 import './css/Contact.css'
 
 // PageOne Component

@@ -3,6 +3,8 @@ import React from 'react';
 import $ from 'jquery';
 import Baby from 'babyparse';
 import './css/Portfolio.css'
+import 'materialize-css'
+
 
 // PageOne Component
 var PortfolioPage = React.createClass({

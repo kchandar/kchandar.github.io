@@ -19,11 +19,5 @@ nav {
 }
 
 .container {
-	width: 160%;
-}
-
-@media screen and (min-width:600px) {
-	.container {
-		width: 80%;
-    }
+	width: 85%;
 }

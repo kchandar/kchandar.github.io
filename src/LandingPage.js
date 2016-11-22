@@ -10,12 +10,18 @@ var LandingPage = React.createClass({
 						<nav>
 							<h2>Keertana Chandar</h2>
 						</nav>
-						<div id='contact'>
-							<h5>Send me an email!</h5>
-			                <h8>I will get back to you as soon as possible.</h8>
+						<div id='card'>
+							<h5>Thanks for visiting my page!</h5>
+			                <h8>Learn more about what I have done and send me a message.</h8>
+
 			            </div>
 					</div>
 				</div>
+				<footer>
+					<div>
+						
+					</div>
+				</footer>
 			</div>
         )
     }

@@ -17,7 +17,7 @@ var AboutPage = React.createClass({
 		        <div className="col s6">
 		            <div className="card">
 		                <div className="card-image">
-		                    <img src='../imgs/profile.jpg' alt='Profile Picture' id='profile'/>
+		                    <img src='build/imgs/profile.jpg' alt='Profile Picture' id='profile'/>
 		                </div>
 		                <div className="card-content info">
 		                	<h5>School</h5>

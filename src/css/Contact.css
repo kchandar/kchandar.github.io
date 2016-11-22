@@ -1,0 +1,29 @@
+div#contact {
+    text-align: center;
+}
+
+.portfolio-desc {
+    font-family:sans-serif;
+    font-weight:100;
+    text-align: center;
+    font-style: italic;
+}
+
+.card-content.info {
+	padding-bottom: 10px;
+}
+
+nav {
+	background-color: #92bec4;
+	margin-bottom: 20px;
+}
+
+.container {
+	width: 160%;
+}
+
+@media screen and (min-width:600px) {
+	.container {
+		width: 80%;
+    }
+}
